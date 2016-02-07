@@ -4,3 +4,4 @@ This was added using TextEdit on the Mac at 1355.
 Again, I’m going to try to copy this to a new branch.
 Fixes issue #1.
 Fixes issue #3.
+Another line of text.
